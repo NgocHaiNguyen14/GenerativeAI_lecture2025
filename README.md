@@ -1,7 +1,7 @@
 # 📚 Generative AI Lecture 2025
 This repository contains organized notebooks and lecture materials covering various topics in Generative AI and Large Language Models (LLMs). It is structured to support both foundational theory and practical implementations, including specific focus on BERT and GPT-2.
 ## 📁 Folder Structure
-
+```
 Generative AI lecture 2025/
 ├── GenAI/
 │   └── GenerativeAI.ipynb
@@ -11,7 +11,7 @@ Generative AI lecture 2025/
 │   │   └── vertopal_BERT.ipynb
 │   └── GPT-2/
 │       └── vertopal.com_GPT_2.ipynb
-
+```
 ## 📂 Main Topics
 ### GenAI
 Contains theoretical and practical explorations of general generative AI models.
